@@ -30,6 +30,6 @@ RSlection é um sistema simples para gerenciar um processo seletivo, permitindo 
 
 ---
 
-Desenvolvido por 🚀 **[Kauã Ribeiro
+Desenvolvido por 🚀 **[Kauã Ribeiro.
 ou melhor, o Quase Dev!]**
 
