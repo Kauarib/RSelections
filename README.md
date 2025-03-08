@@ -1,4 +1,4 @@
-# RSlection - Processo Seletivo 💼
+# RSlections - Processo Seletivo 💼
 
 RSlection é um sistema simples para gerenciar um processo seletivo, permitindo que candidatos informem sua pretensão salarial e experiência. O sistema avalia os candidatos com base em critérios predefinidos e seleciona aqueles aptos para entrevistas.
 
@@ -16,7 +16,7 @@ RSlection é um sistema simples para gerenciar um processo seletivo, permitindo 
 
 1. Clone este repositório:
    ```
-   git clone https://github.com/seu-usuario/RSlection.git
+   git clone https://github.com/Kauarib/RSelections
    ```
 2. Compile e execute:
    ```
@@ -30,5 +30,6 @@ RSlection é um sistema simples para gerenciar um processo seletivo, permitindo 
 
 ---
 
-Desenvolvido por 🚀 **[Seu Nome]**
+Desenvolvido por 🚀 **[Kauã Ribeiro
+ou melhor, o Quase Dev!]**
 
